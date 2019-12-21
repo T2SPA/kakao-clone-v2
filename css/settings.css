@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+#settings .settings_section {
+    border-top: 1px solid #f7f7f7;
+    padding-top: 20px;
+}
+
+#settings .settings_list-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.settings_list-item .setting_icon {
+    display: block;
+    width: 40px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.settings_list-item .setting_title {
+    font-size: 18px;
+    font-weight: 300;
+}

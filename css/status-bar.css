@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#status-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #666666;
+    background-color: #ffffff;
+}
+
+#status-bar i {
+    font-size: 14px;
+}

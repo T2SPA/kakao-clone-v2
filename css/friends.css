@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#friends .friends_birthday,  #friends .friends_plus, #friends .friends_list{
+    border-top: 1px solid #ebebeb;
+    margin: 20px 0px;
+    padding-top: 20px;
+}
+
+#friends .birthday_title,  #friends .plus_title, #friends .friends_title{
+    font-size: 12px;
+    color: #7f7f7f;
+    margin-bottom: 15px;
+}

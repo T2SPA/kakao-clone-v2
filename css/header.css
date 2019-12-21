@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+#header .header_title {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+#header .header_icon {
+    font-size: 22px;
+    margin-left: 22px;
+    cursor: pointer;
+}
+
+#header .header_col {
+    display: flex;
+    align-items: center;
+}
+
+#header .header_back-btn {
+    font-size: 22px;
+    margin-right: 16px;
+}
