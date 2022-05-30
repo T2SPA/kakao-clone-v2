@@ -1,2 +1,2 @@
 # Kakao Clone
-Preview: https://developer-t2.github.io/kakao-clone
+Preview: https://dev-t2.github.io/kakao-clone
